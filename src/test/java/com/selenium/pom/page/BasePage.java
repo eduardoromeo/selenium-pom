@@ -6,7 +6,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.List;
-//clase de configuracion del webdriver y reutilizacion de todas las paginas
+
+// CLASE DE CONFIGURACION DEL WEBDRIVER Y FUNCIONES BASICAS REUTILIZABLES PARA TODAS LAS PAGINAS
 public class BasePage {
     // Instancia de WebDriver utilizada para controlar el navegador.
     private WebDriver driver;
